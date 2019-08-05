@@ -1,2 +1,2 @@
 # SwiftyLibeDemo1
-or testing purpose.
+For testing purpose.
